@@ -19,7 +19,7 @@ Aug 2020 - May 2025 (Expected)
 
 ### [University of Wisconsin-Madison](https://www.wisc.edu/) | Madison                               
 
-Aug 2018 - May 2020
+2015 - 2021
 
 *Master of Arts in Mathematics*
 
