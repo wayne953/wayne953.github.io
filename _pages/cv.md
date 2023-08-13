@@ -10,43 +10,35 @@ redirect_from:
 
 ## Education
 
-### [The University of Texas Health Science Center at Houston](https://www.uth.edu/) | Houston                               
+### [Columbia University](https://www.uth.edu/) | New York, NY                               
 
-Aug 2020 - May 2025 (Expected)
+Sep 2021 - Dec 2022 
 
-*Doctor of Philosophy in Biomedical Informatics* 
-
-
-### [University of Wisconsin-Madison](https://www.wisc.edu/) | Madison                               
-
-2015 - 2021
-
-*Master of Arts in Mathematics*
+*Master of Science in Operations Research* 
 
 
-### [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) | Guangzhou                                      
+### [University of Wisconsin-Madison](https://www.wisc.edu/) | Madison, WI                               
 
-Aug 2015 - Jun 2019
+Jan 2015 - May 2021
 
-*Bachelor of Science in Mathematics and Applied Mathematics*
+*Bachelor of Science in Applied Mathematics, Computer Science, Chemical Engineering*
+
+
+## Skills
+
+**Programming Languages:** Python • SQL • Java • C • R • MATLAB
+
+**Frameworks:** PyTorch • scikit-learn • Keras • TensorFlow • jQuery • MONAI
+
+**Tools:** OpenCV • GitHub • LaTex • Google Cloud Platform • Linux • NLTK • Gensim • SQLAlchemy • HTML • CSS
 
 
 ## Awards & Honors
 
-Jun 2023, **Travel Award**: 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)
+**Dean’s Honor List**: Academic Year 2016-2020
 
-Mar 2022, **Dr. Noriaki Aoki Fund Travel Award**: AMIA 2022 Informatics Summit
+**Graduated with Distinction** May 2021, (top 10% in the Department of Engineering)
 
-Feb 2022, **Second Place**, [Healthcare Innovation Collaborative](https://www.txhic.com/) 2022 Annual Case Competition
-
-Aug 2020, **SBMI Dean’s Excellent Award**
-
-
-## Academic Experience                                  
-
-### McWilliams School of Biomedical Informatics, UTHealth | Houston
-
-Aug 2023 - Present
 
 *Teaching Assistant*
 
@@ -105,10 +97,4 @@ Mar 2022 - May 2023
 
 
 
-## Skills
 
-**Programming Languages:** Python • R • MATLAB • SQL • Java • C++ • C
-
-**Frameworks:** PyTorch • scikit-learn • Keras • TensorFlow
-
-**Tools:** GitHub • LaTex
