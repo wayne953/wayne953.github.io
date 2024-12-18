@@ -39,15 +39,13 @@ Jan 2015 - May 2021
 
 **Graduated with Distinction** May 2021, (top 10% in the Department of Engineering)
 
+**L.R. Ingersoll Award**  Jan 2016, Distinct in physics 
 
-*Teaching Assistant*
-
-Assist in the Deep Learning in Biomedical Informatics (BMI 6334) course.
 
 
 ### McWilliams School of Biomedical Informatics, UTHealth | Houston
 
-Oct 2020 - Present
+April 2023 - Present
 
 *Graduate Research Assistant*
 
@@ -82,18 +80,16 @@ Used web crawler technique to map drugs from NCCD to RxNorm.
 
 ## Activities
 
-### 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)
 
-Jun 2023
+### Greater University Tutoring Service -- Volunteer Tutor
 
-*Session Chair*
+Assist in the math, physics, and computer science undergraduate course.
 
+### Global China Connection (GCC) -- Member, Jan 2015 - May 2015
 
-### [SBMI Student Governance Organization](https://sbmi.uth.edu/current-students/sgo.htm), UTHealth
+Applying funding from Associated Students of Madison (ASM) for GCC
 
-Mar 2022 - May 2023
-
-*Academics Committee, International Student Committee*
+Assist the preparation of Live Concert by setting up equipment and guide visitors 
 
 
 
