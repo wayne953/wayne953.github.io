@@ -42,40 +42,42 @@ Jan 2015 - May 2021
 **L.R. Ingersoll Award**  Jan 2016, Distinct in physics 
 
 
+## Experience 
+
 
 ### McWilliams School of Biomedical Informatics, UTHealth | Houston
 
 April 2023 - Present
 
-*Graduate Research Assistant*
+*Graduate Scientific Programmer*
 
-• Applications of deep learning in precision dosing
+• Applications of deep learning in medical image segmentation
 
-• Deep learning-based time-series EHR data analysis
+• Deep learning-based MRI phenotype generation with GWAS data analysis
 
+### University of Wisconsin - Madison | Madison, WI
 
-### Mathematics Department, UW-Madison | Madison
+Feb 2020 - Sep 2020 
 
-Sep 2019 - May 2020
+*Research Assistant*
 
-*Project Assistant*
+• Built a feature selection pipeline and selected 6 key elements from features set with 90 features, which enabled rapid screening and design of soft materials for applications in drug delivery and catalysis
 
-Assisted in courses: Numerical Analysis (MATH 514), Analysis I (MATH 521), and Computational Mathematics (MATH 714). 
+• Implemented the pipeline with Distance correlation, SVM-RFE model, and Random Forest in scikit-learn
 
+• Performed unit tests and functional test using Pytest on the pipeline
 
-### Digital China Health | Beijing 
+### University of Wisconsin - Madison | Madison, WI
 
-Jul 2019 - Aug 2019
+May 2017 - May 2018
 
-*Natural Language Processing Research Intern*
+*Research Assistant*
 
-• Standardization of drug terminology completed by Python:
+• Tested different functional groups (Am and Gdm) on hydrophobic interaction in bulk solution
 
-Normalized the drug dataset NCCD from the Chinese Food and Drug Administration;
+• Designed the experiment which applied Dynamic Light Scattering and Surface Tension on finding Critical Micelle Concentration
 
-Used web crawler technique to map drugs from NCCD to RxNorm.
-
-• EHR labeling completed by Plato.
+• Applied linear regression in OriginLab to conclude that Am facilities the hydrophobic self-assembly better
 
 
 ## Activities
