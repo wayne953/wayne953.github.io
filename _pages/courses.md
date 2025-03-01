@@ -4,7 +4,7 @@ title: "Courses"
 permalink: /courses/
 author_profile: false
 ---
-
+# Columbia
 ## Biomedical Informatics
 
 [BMI 5300](https://sbmi.uth.edu/current-students/catalog-of-courses-bmi/bmi-5300.htm) Introduction to Biomedical Informatics
