@@ -16,7 +16,7 @@ Wei He (何炜)
 *Graduate Scientific Programmer* in [Dr. Degui Zhi's group](https://zhigroup.github.io/), [Center for Artificial Intelligence and Genome Informatics](https://sbmi.uth.edu/aigi)
 
 
-**Research interests:**  Deep Learning, Mathematical Modeling, Data Science
+**Research interests:**  Deep Learning, Medical Imaging, Data Science
 
 **Contact me:** [Wei.He@uth.tmc.edu](mailto:Wei.He@uth.tmc.edu)
 
