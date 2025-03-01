@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/profile.JPG" alt="drawing" width="200" height="200" style="float: left; padding-right:15px"/> <br>
+<img src="/images/profile_img.png" alt="drawing" width="200" height="200" style="float: left; padding-right:15px"/> <br>
 
 Wei He (何炜)
 
