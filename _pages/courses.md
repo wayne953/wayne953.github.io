@@ -4,7 +4,38 @@ title: "Courses"
 permalink: /courses/
 author_profile: false
 ---
-# Columbia
+
+## Machine Learning & Deep Learning & Data Science
+
+[COMP SCI 540](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20540) INTRODUCTION TO ARTIFICIAL INTELLIGENCE
+
+[COMP SCI 577](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20577) INTRODUCTION TO ALGORITHMS
+
+## Statistics
+
+[STAT 324](https://guide.wisc.edu/courses/stat/#:~:text=STAT%20324) INTRODUCTORY APPLIED STATISTICS FOR ENGINEERS
+
+[STAT 431](https://guide.wisc.edu/courses/stat/#:~:text=MATH%20431) INTRODUCTION TO THE THEORY OF PROBABILITY
+
+[STAT 475](https://guide.wisc.edu/courses/stat/#:~:text=MATH%20475) INTRODUCTION TO COMBINATORICS
+
+[STAT 525](https://guide.wisc.edu/courses/stat/#:~:text=MATH%20525) LINEAR OPTIMIZATION
+
+[STAT 632](https://guide.wisc.edu/courses/stat/#:~:text=OTM%20632) INTRODUCTION TO STOCHASTIC PROCESSES
+
+## Computer Science & Programming
+
+[COMP SCI 252](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20252) INTRODUCTION TO COMPUTER ENGINEERING
+
+[ECE 353](https://guide.wisc.edu/courses/comp_sci/#:~:text=E%20C%20E%20353) INTRODUCTION TO MICROPROCESSOR SYSTEMS
+
+[COMP SCI 400](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20400) PROGRAMMING III
+
+[COMP SCI 537](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20537) INTRODUCTION TO OPERATING SYSTEMS
+
+[COMP SCI 640](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20640) INTRODUCTION TO COMPUTER NETWORKS
+
+
 ## Biomedical Informatics
 
 [BMI 5300](https://sbmi.uth.edu/current-students/catalog-of-courses-bmi/bmi-5300.htm) Introduction to Biomedical Informatics
