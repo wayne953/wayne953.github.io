@@ -11,6 +11,10 @@ author_profile: false
 
 [COMP SCI 577](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20577) INTRODUCTION TO ALGORITHMS
 
+[COMS 4995](https://www.cs.columbia.edu/~zemel/Class/Nndl/files/) NEURAL NETWORKS AND DEEP LEARNING
+
+[IEOR 4523](https://doc.sis.columbia.edu/subj/IEOR/E4523-20233-003/) DATA ANALYTICS
+
 ## Statistics
 
 [STAT 324](https://guide.wisc.edu/courses/stat/#:~:text=STAT%20324) INTRODUCTORY APPLIED STATISTICS FOR ENGINEERS
@@ -25,9 +29,9 @@ author_profile: false
 
 ## Computer Science & Programming
 
-[COMP SCI 252](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20252) INTRODUCTION TO COMPUTER ENGINEERING
+[COMP SCI 252](https://guide.wisc.edu/courses/comp_sci/#:~:text=E%20C%20E%20252) INTRODUCTION TO COMPUTER ENGINEERING
 
-[ECE 353](https://guide.wisc.edu/courses/comp_sci/#:~:text=E%20C%20E%20353) INTRODUCTION TO MICROPROCESSOR SYSTEMS
+[ECE 353](https://guide.wisc.edu/courses/e_c_e/#:~:text=E%20C%20E%20353) INTRODUCTION TO MICROPROCESSOR SYSTEMS
 
 [COMP SCI 400](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20400) PROGRAMMING III
 
@@ -35,7 +39,33 @@ author_profile: false
 
 [COMP SCI 640](https://guide.wisc.edu/courses/comp_sci/#:~:text=COMP%20SCI%20640) INTRODUCTION TO COMPUTER NETWORKS
 
+[COMS 4111](https://w4111.github.io/) INTRODUCTION TO DATABASES
 
+## Biology & Chemistry
+
+[ZOOLOGY 153](https://guide.wisc.edu/courses/zoology/#:~:text=ZOOLOGY%20153) INTRODUCTORY BIOLOGY
+
+[BIOCHEM 501](https://guide.wisc.edu/courses/biochem/#:~:text=BIOCHEM%20501) INTRODUCTION TO BIOCHEMISTRY
+
+[CHEM 343 & 345](https://guide.wisc.edu/courses/chem/#:~:text=CHEM%20343%20—%20ORGANIC%20CHEMISTRY%20I
+) ORGANIC CHEMISTRY I & II
+
+[CHEM 562](https://guide.wisc.edu/courses/comp_sci/#:~:text=CHEM%20562) PHYSICAL CHEMISTRY II
+
+## Engineering
+
+[CBE 326](https://guide.wisc.edu/courses/cbe/#:~:text=CBE%20326) MOMENTUM AND HEAT TRANSFER OPERATIONS
+
+[CBE 430](https://guide.wisc.edu/courses/CBE/#:~:text=CBE%20430) CHEMICAL KINETICS AND REACTOR DESIGN
+
+[CBE 470](https://guide.wisc.edu/courses/CBE/#:~:text=CBE%20470) PROCESS DYNAMICS AND CONTROL
+
+## Econ & Finance
+
+[FINANCE 300](https://guide.wisc.edu/courses/finance/#:~:text=ECON%20300) INTRODUCTION TO FINANCE
+
+[FINANCE 330](https://guide.wisc.edu/courses/finance/#:~:text=FINANCE%20330) DERIVATIVE SECURITIES
+<!--
 ## Biomedical Informatics
 
 [BMI 5300](https://sbmi.uth.edu/current-students/catalog-of-courses-bmi/bmi-5300.htm) Introduction to Biomedical Informatics
@@ -71,3 +101,4 @@ author_profile: false
 [BMI 5352](https://sbmi.uth.edu/current-students/catalog-of-courses-bmi/bmi-5352.htm) Statistical Methods in Biomedical Informatics
 
 PH 1976 Fundamentals of Data Analytics and Predictions ([Code Repository](https://github.com/BingyuMao/pd_proj))
+-->
